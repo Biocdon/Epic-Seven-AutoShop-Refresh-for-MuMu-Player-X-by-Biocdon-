@@ -8,6 +8,6 @@
 # Instructions: 
 # -To start the program simply double click and make sure to run as administrator.
 # -FailSafe: (Exit) to exit simply position your mouse to the top right corner whilst holding "Q" button.
-#
+# Also remember to have your Secret Shop opened before executing the exe file
 # Made by: Biocdon.
 #
